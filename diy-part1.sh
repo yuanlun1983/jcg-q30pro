@@ -21,4 +21,5 @@
 sed -i '$a src-git 123 https://github.com/tty228/luci-app-wechatpush.git' feeds.conf.default
 sed -i '$a src-git 123 https://github.com/destan19/OpenAppFilter.git' feeds.conf.default
 sed -i '$a src-git 123 https://github.com/vernesong/OpenClash.git' feeds.conf.default
+sed -i '$a src-git 123 https://github.com/kenzok8/openwrt-packages.git' feeds.conf.default
 

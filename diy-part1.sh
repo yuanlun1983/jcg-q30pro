@@ -18,5 +18,5 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #sed -i '1i src-git haibo https://github.com/haiibo/openwrt-packages' feeds.conf.default
 #sed -i '$a src-git smpackage https://github.com/xuanranran/openwrt-package.git' feeds.conf.default
-sed -i '$a src-git 123 https://github.com/xuanranran/openwrt-package.git
+ sed -i '$a src-git 123 https://github.com/xuanranran/openwrt-package.git
 
